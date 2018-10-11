@@ -6,3 +6,5 @@ CS4644
 THIS IS WEI!!!
 
 //Hello, this is Annie :)
+
+//tryna set up this computer - Heather
